@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="voting">User Voting</string>
+    <string name="top_voted">Top Voted</string>
+    <string name="release_date">Release Date</string>
+    <string name="retry">Retry</string>
+    <string name="sort">Sort by&#8230;</string>
+    <string name="highest_voting">Highest Voting</string>
+    <string name="popularity">Popularity</string>
+    <string name="reviews">Reviews:</string>
+    <string name="author">Author:</string>
+    <string name="no_reviews">No reviews&#8230;</string>
+    <string name="trailers">Trailers</string>
+    <string name="trailer_img">Trailer image</string>
+    <string name="no_trailers">No trailers</string>
+    <string name="share">Share</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites">No Favorites yet&#8230;</string>
+    <string name="toast_added">Movie added to favorites!</string>
+    <string name="toast_removed">Movie removed from favorites!</string>
+    <string name="toast_already_in_favorites">This movie was already added to favorites!</string>
+    <string name="img_splash">Image Splash</string>
+    <string name="enlarge_img">Click to enlarge image</string>
+    <string name="trailer_share">Share movie trailer</string>
+    <string name="internet_error">Oops! Something happened! No internet??</string>
+    <string name="error_api_key">Sorry! Missing the API Key&#8230;</string>
+    <string name="failed_insert_row">Failed to insert row into: </string>
+    <string name="unknow_uri">Unknow URI: </string>
+    <string name="image_splash">Image Splash</string>
+    <string name="splash_1">Popular</string>
+    <string name="splash_2">Movies</string>
+    <string name="save_image">Save Image</string>
+</resources>
